@@ -10,3 +10,5 @@ Os pacotes necessários para executar o projeto estão listados no arquivo [requ
 
 ```sh
 pip install -r requirements.txt
+```
+[🎥 Assista ao vídeo da demonstração](https://github.com/Msamuelsons/projeto-integrador-libras/blob/main/videos/real_time.mp4)

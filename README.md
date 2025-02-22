@@ -10,3 +10,4 @@ Os pacotes necessários para executar o projeto estão listados no arquivo [requ
 
 ```sh
 pip install -r requirements.txt
+[🎥 Assista ao vídeo da demonstração](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
